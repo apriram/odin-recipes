@@ -1,0 +1,38 @@
+* {
+    color:white;
+    background-color: lightskyblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    color:blue;
+    font-size: 18px;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+    font-size: 48px;
+}
+
+h2 {
+    color:blueviolet;
+}
+
+img {
+    height:auto;
+    width: 400px;
+}
+
+.numbered-list{
+    color:darkblue;
+}
+
+#spag {
+    width:300px;
+}
+
+#return {
+    color:black;
+    font-weight: bold;
+}
